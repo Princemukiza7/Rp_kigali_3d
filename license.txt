@@ -1,0 +1,8 @@
+Model Information:
+* title:	Ancient Houses
+* source:	https://sketchfab.com/3d-models/ancient-houses-a947d0f9476843a4b1cd0cdad83ed30e
+* author:	eb78 (https://sketchfab.com/E.A.Cornell)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
